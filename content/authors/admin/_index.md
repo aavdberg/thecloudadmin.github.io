@@ -10,11 +10,11 @@ role: Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: The Cloud Admin
-  url: ""
+- name: TheCloudAdminEU
+  url: "https://www.thecloudadmin.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Consultant, Blogger, Speaker, Meetup/Event Attendee, Owner of MyStickerBox
+bio: André is widely interested, eager to learn and a DevOps enthusiast. He has experience with various projects in the field of lift and shift of on-premise environments to Azure Cloud, migrating databases and web servers of customers at suppliers to their own Azure environments together with the supplier. In addition, he also set up standard Bicep Blueprints for rolling out Azure resources in a consistent way at multiple customers who were managed by MSP. André likes to share his knowledge and is a real team player. In addition, he can also work well independently and is pleasant to deal with.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -30,14 +30,42 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/aavdberg
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/aavdberg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+interests:
+- Azure
+- IAC (Bicep, GitHub Action Workflows)
+- Git
+- Windows 10
+- Windows 11
+- Microsoft 365
+- Microsoft Defender
+- Intune
+- Home Automation
+
+education:
+  courses:
+  - course: Microsoft Certified Azure Fundamentals
+    institution: Microsoft
+    year: 2019
+  - course: Microsoft Certified Azure Administrator Associate
+    institution: Microsoft
+    year: 2019
+  - course: Microsoft Certified Systems Engineer Windows NT 4.0
+    institution: Microsoft
+    year: 1998
+
 
 skills:
   - name: Technical
