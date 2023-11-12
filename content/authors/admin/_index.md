@@ -1,28 +1,28 @@
 ---
 # Display name
-title: 吳健雄
+title: André van den Berg
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: André van den Berg
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: André
+last_name: van den Berg
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐈
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rubicon
+    url: https://www.rubicon.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -32,14 +32,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: send
     icon_pack: wc
-    link: 'mailto:your-email@example.com'
+    link: 'mailto:aavdberg@familie-berg.org'
   - icon: twitter
     icon_pack: wc
-    link: https://twitter.com/GetResearchDev
+    link: https://twitter.com/aavdberg
     label: Follow me on Twitter
   - icon: github
     icon_pack: wc
-    link: https://github.com/gcushen
+    link: https://github.com/aavdberg
   - icon: linkedin
     icon_pack: wc
     link: https://www.linkedin.com/
@@ -55,7 +55,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+André is widely interested, eager to learn and a DevOps enthusiast. He has experience with various projects in the field of lift and shift of on-premise environments to Azure Cloud, migrating databases and web servers of customers at suppliers to their own Azure environments together with the supplier. In addition, he also set up standard Bicep Blueprints for rolling out Azure resources in a consistent way at multiple customers who were managed by MSP. André likes to share his knowledge and is a real team player. In addition, he can also work well independently and is pleasant to deal with.
 {style="text-align: justify; font-size: 0.8em;"}
