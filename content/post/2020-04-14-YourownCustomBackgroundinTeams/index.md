@@ -77,9 +77,8 @@ So it will look like this where you put the background files.
 
 After this when you go to your teams and start a meeting or call you can choose your own background.  
 
-{{% alert note %}}
+
 When you select images for the background, remember how higher the resolution is how better it will look. So 1920 x 1080 is the minium what my opinion, the images from Microsoft Teams have also this resolution.
-{{% /alert %}}  
 
 {{< figure src="images/BackgroundEffectTeams-008.png" title="" lightbox="true" >}}  
 
