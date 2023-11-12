@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: André van den Berg
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Cloud Admin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,13 +26,10 @@ social:
   link: '/contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/aavdberg
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aavdberg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
