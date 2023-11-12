@@ -6,7 +6,7 @@ title: André van den Berg
 superuser: true
 
 # Role/position
-role: Consultant
+role: Consultant, Blogger, Speaker, Meetup/Event Attendee, Owner of MyStickerBox
 
 # Organizations/Affiliations
 organizations:
