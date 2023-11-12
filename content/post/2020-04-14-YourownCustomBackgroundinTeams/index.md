@@ -56,9 +56,8 @@ When you press to apply and activate video you will get for example the followin
 
 {{< figure src="images/BackgroundEffectTeams-006.png" title="" lightbox="true" >}}  
 
-{{% alert note %}}
+
 The only thing I am missing now is an option to set a background as default. Now with every new call you have to select your background again, and only possible when the meeting or call is started.
-{{% /alert %}}
 
 ## How to add your own backgrounds into Teams
 
