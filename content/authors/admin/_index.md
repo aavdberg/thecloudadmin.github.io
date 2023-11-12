@@ -38,4 +38,57 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+skills:
+  - name: Technical
+    items:
+    - name: 'Windows 10/11'
+      description: ''
+      percent: 100
+      icon: windows
+      icon_pack: fab
+    - name: 'Git'
+      description: ''
+      percent: 80
+      icon: git-alt
+      icon_pack: fab
+    - name: Hugo
+      description: ''
+      percent: 60
+      icon: blogger
+      icon_pack: fab
+    - name: Azure
+      description: ''
+      percent: 80
+      icon: azure
+      icon_pack: fab
+    - name: 'bicep (IaC)' 
+      description: ''
+      percent: 80
+      icon: bicep
+      icon_pack: fab
+    - name: PowerShell
+      description: ''
+      percent: 80
+      icon: PowerShell
+      icon_pack: fab
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Walking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
 ---

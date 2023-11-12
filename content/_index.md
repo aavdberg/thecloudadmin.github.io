@@ -58,4 +58,11 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      username: admin
+    design:
+      colomns: '1'
 ---
