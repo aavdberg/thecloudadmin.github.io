@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: About
     url: '#about'
-    weight: 20
+    weight: 35
   - name: Skills
     url: '#skills'
     weight: 30
