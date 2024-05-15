@@ -65,9 +65,9 @@ sections:
   - block: tag_cloud
     id: tags
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: "Digital Devotion: Celebrating My Love for Windows and Surface Devices"
+      subtitle: "From Code to Canvas: My Journey with the Tech I Love"
+      text:
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
       taxonomy: tags
       # Choose how many tags you would like to display (0 = all tags)
