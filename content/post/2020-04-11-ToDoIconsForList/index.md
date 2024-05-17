@@ -32,7 +32,7 @@ projects: []
 
 I was seeing a blog post of Thomas Maurer about how you could do planning with Azure DevOps and Microsoft ToDo.
 
-{{< tweet 1248668559485685763 >}}
+{{< tweet user="ThomasMaurer" id="1248668559485685763" >}}
 
 And then I did see that he had icons in front of the lists he made. So I google some and found in a UserVoice from ToDo out how you can do this.
 
