@@ -167,7 +167,7 @@ Remember that the language of your Teams app determines the available voice enro
 
 ## **Links**
 
-[Microsoft Learn - Voice Recognition](https://learn.microsoft.com/en-us/microsoftteams/rooms/voice-recognition)
+[Microsoft Learn - Voice Recognition](https://learn.microsoft.com/en-us/microsoftteams/rooms/voice-recognition?wt.mc_id=WDIT-MVP-5005232)
 
 ## **Conclusion**
 
