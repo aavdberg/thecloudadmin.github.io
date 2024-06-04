@@ -13,7 +13,8 @@ lastmod: 2020-04-05T23:14:26+02:00
 featured: false
 draft: false
 profile: false
-alias: /post/2020-03-31-StickerTuesday
+aliases:
+    - /post/2020-03-31-StickerTuesday
 links:
   - icon_pack: fab
     icon: twitter
