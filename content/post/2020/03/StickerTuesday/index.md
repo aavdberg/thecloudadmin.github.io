@@ -2,6 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Fullstaq: Sticker Tuesday"
+aliases:
+    - /post/2020-03-31-StickerTuesday
 titlelink: "StickerTuesday"
 subtitle: ""
 summary: ""
@@ -13,8 +15,6 @@ lastmod: 2020-04-05T23:14:26+02:00
 featured: false
 draft: false
 profile: false
-aliases:
-    - /post/2020-03-31-StickerTuesday
 links:
   - icon_pack: fab
     icon: twitter
