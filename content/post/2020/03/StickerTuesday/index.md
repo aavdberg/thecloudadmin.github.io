@@ -3,7 +3,7 @@
 
 title: "Fullstaq: Sticker Tuesday"
 aliases:
-    - /post/2020-03-31-StickerTuesday
+    - /post/2020-03-31-StickerTuesday/
 titlelink: "StickerTuesday"
 subtitle: ""
 summary: ""
